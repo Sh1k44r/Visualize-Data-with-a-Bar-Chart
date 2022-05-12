@@ -4,4 +4,4 @@ The following code uses HTML5, CSS and Javascript to transform the given<br> [da
 
 You may view the completed code [here](https://sh1k44r.github.io/Visualize-Data-with-a-Bar-Chart/).
 
-That completes one of the projects in FREECODECAMP
+That completes one of the projects in FREECODECAMP.
